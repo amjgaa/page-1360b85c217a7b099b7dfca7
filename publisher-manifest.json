@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "b7f0aa5a279a7869fc9bf8cc",
+  "owner": "amjgaa",
+  "repo": "page-1360b85c217a7b099b7dfca7",
+  "title": "免费订阅clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1360b85c217a7b099b7dfca7",
+      "a": "Miru",
+      "b": "免费订阅clash节点",
+      "entity": "Miru",
+      "brand": "免费订阅clash节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ce3d627ba79f2da7de2ff8684fae8f83ecf8180decdc45b426ce4d815876e5b3",
+      "content": {
+        "primary_entity": "Miru",
+        "keyword1": "Miru",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，选对版本才能导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对照设备与流量需求选定套餐，按客户端说明完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对版本开始使用",
+          "AI_DESCRIPTION": "，Miru 提供从轻量到团队级的订阅方案，基础版每月 100GB 流量满足日常浏览与轻量视频，旗舰版每月 300GB 并带 IPLC 专线与原生流媒体解锁，团队版每月 1000GB 供多设备协同。选择时先看同时在线设备数与月流量需求，再决定月付或年付。",
+          "AI_FEATURES_INTRO": "根据设备数量与流量消耗挑选版本，再确定订阅周期。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。",
+          "AI_FEATURE_TEXT_2": "日常浏览 100GB 够用，追剧或远程办公可选 300GB，团队选 1000GB。",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，比按月订阅省。",
+          "AI_FEATURE_TITLE_1": "按设备选版本",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_GUIDE_INTRO": "选套餐、看适配、配订阅，三步开始使用。",
+          "AI_GUIDE_TITLE": "上手三步",
+          "AI_HERO_INTRO": "Miru 是面向跨境访问场景的海外加速服务品牌，提供多档订阅套餐，覆盖个人日常浏览、流媒体与团队多设备需求。套餐按流量与同时在线设备数区分，可按月或按年订阅。",
+          "AI_HERO_SUBTITLE": "多设备订阅与节点加速",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付方案较月付更省",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数、节点品质与支持级别上依次提升。基础版适合单人或双人轻量使用；旗舰版适合多设备且需要流媒体与低延迟游戏加速；团队版适合小型工作室或家庭多终端。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按同时在线设备数与月流量估算，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所用系统支持的客户端，按客户端文档准备安装环境。",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅信息，保存后更新节点列表即可连接。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Miru 套餐与节点选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Miru 支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "Miru 提供手机、电脑和路由器等多个平台的客户端，具体可用版本以客户端下载页说明为准，安装后通过订阅链接导入配置。",
+          "AI_FAQ_QUESTION_2": "套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_2": "套餐按订阅周期计费，如需更高流量或更多设备数，可在当前周期结束后选择更高档位，具体操作参考账户管理说明。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付一次性支付全年费用，月均成本低于按月订阅。基础版年付 150 元，旗舰版 350 元，团队版 850 元。",
+          "AI_FAQ_QUESTION_4": "连接设备数怎么计算？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按套餐档位限制，基础版 3 台、旗舰版 5 台、团队版 20 台，同一时间超出数量可能无法连接。",
+          "AI_FAQ_QUESTION_5": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "复制订阅链接后，在客户端的订阅管理或配置导入选项中粘贴，更新节点列表即可使用，具体路径参考该客户端的帮助文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f2ba396c22934f7849badc08f0a2dc665e3a6c126568ecb53c5eefea1fccd70f",
+    "sitemap.xml": "071fbecd439f70b690f8c0f2e4ba189edf85fb91c8b721d663a3b5eb91f0a3fa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "da071b85ebec07eaf1dc4630fa75949ec7d5aced28c1ab6aaff1521183a79a43"
+}
